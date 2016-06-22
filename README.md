@@ -12,7 +12,9 @@ Courses - создание SCORM-курса группой
 
 Data - BigData из LMS ЕГУ Бунина
 
-babylon.js - работа с фреймворком WebGL
+[технология babylon.js - работа с фреймворком WebGL] (https://github.com/DistanceLearning/Babylon.js)
+
+[технология Unity в framework Scut] (https://github.com/DistanceLearning/Scut)
 
 Траектория обучения: http://vladimirandropov.github.io/start/#/overview
 
